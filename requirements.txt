@@ -1,0 +1,3 @@
+st_pages
+plotly
+seaborn
